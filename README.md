@@ -42,8 +42,8 @@ A distributed asynchronous job-processing platform built to explore backend engi
 
 ### 📫 Connect with me
 
-- **LinkedIn:** https://www.linkedin.com/in/rohangupta78/
-- **LeetCode:** https://leetcode.com/u/rgdeveloper/
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rohangupta78/)
+- **LeetCode:** [LeetCode](https://leetcode.com/u/rgdeveloper/)
 
 ---
 
